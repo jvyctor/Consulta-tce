@@ -25,12 +25,6 @@ Por questoes de confidencialidade e propriedade intelectual, o codigo-fonte nao 
 - fluxo de analise de divergencias em arquivos CSV
 - ambiente preparado para execucao conteinerizada com Docker
 
-## Aplicacao em producao
-
-Link publico:
-
-- https://consultatce-dev.ssinformatica.net/
-
 ## Interface em destaque
 
 Consulta da API TCE com grid preenchido a partir de dados reais do endpoint `agentes_publicos`, usando o municipio `057` e o exercicio `202500`.
