@@ -6,6 +6,12 @@ Este repositorio apresenta um case profissional baseado em uma aplicacao full st
 
 Por questoes de confidencialidade e propriedade intelectual, o codigo-fonte nao e publicado. O objetivo deste material e documentar o problema resolvido, a arquitetura da solucao, a stack utilizada e minha atuacao tecnica no projeto.
 
+## Aplicacao em producao
+
+O sistema pode ser acessado publicamente em:
+
+https://consultatce-dev.ssinformatica.net/
+
 ## Contexto
 
 O projeto foi concebido para apoiar rotinas operacionais que dependem de consulta, consolidacao e validacao de informacoes publicas. A solucao centraliza diferentes fluxos em uma unica interface, reduz o esforco manual de consulta e melhora a consistencia do tratamento dos dados exibidos e exportados.
