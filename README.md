@@ -2,9 +2,14 @@
 
 ![Consulta TCE banner](./assets/banner.svg)
 
-Case profissional de uma aplicacao full stack voltada para consulta, normalizacao e analise de dados publicos.
+Plataforma full stack para consulta, integracao e analise operacional de dados publicos, desenvolvida com foco em produtividade, padronizacao de informacoes e apoio a rotinas reais de validacao.
 
 [Acessar aplicacao em producao](https://consultatce-dev.ssinformatica.net/)
+
+Stack principal: `Ruby on Rails 8` `Preact` `TypeScript` `PostgreSQL` `Docker`
+
+Por questoes de confidencialidade, este repositorio documenta o case profissional sem expor codigo proprietario.
+
 ## Visao geral
 
 Este repositorio documenta um projeto real desenvolvido em contexto corporativo para apoiar rotinas operacionais de consulta, consolidacao e validacao de informacoes publicas.
