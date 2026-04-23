@@ -4,7 +4,7 @@
 
 Este repositorio apresenta um case profissional baseado em uma aplicacao full stack desenvolvida em contexto corporativo para consulta, normalizacao e analise de dados publicos.
 
-Por questoes de confidencialidade e propriedade intelectual, o codigo-fonte nao e publicado. O objetivo deste material e documentar o problema resolvido, a arquitetura da solucao, a stack utilizada e minha atuacao tecnica no projeto.
+Por questoes de confidencialidade, o codigo-fonte nao pode ser publicado. O objetivo deste material e documentar o problema resolvido, a arquitetura da solucao, a stack utilizada e minha atuacao tecnica no projeto.
 
 ## Aplicacao em producao
 
