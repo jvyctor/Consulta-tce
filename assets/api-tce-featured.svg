@@ -1,0 +1,137 @@
+<svg width="1909" height="931" viewBox="0 0 1909 931" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1909" height="931" fill="#EEF2F6"/>
+  <rect x="2" width="1905" height="40" fill="#0E848D"/>
+  <circle cx="47" cy="20" r="15" stroke="white" stroke-width="3"/>
+  <path d="M40 20C44 12 54 12 57 20C60 28 51 31 47 24C44 20 39 24 40 28" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <text x="73" y="23" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Consulta TCM</text>
+
+  <rect x="3" y="40" width="178" height="891" fill="#FAFAFB"/>
+  <rect x="4" y="556" width="0.7" height="20" fill="#DF5A4F"/>
+  <text x="18" y="70" fill="#586674" font-family="Segoe UI, Arial, sans-serif" font-size="19">☰</text>
+  <text x="39" y="69" fill="#586674" font-family="Segoe UI, Arial, sans-serif" font-size="14">Menu</text>
+  <text x="11" y="98" fill="#586674" font-family="Segoe UI, Arial, sans-serif" font-size="12">Buscar no menu...</text>
+  <rect x="10" y="107" width="165" height="26" rx="2" stroke="#C9D1DA"/>
+  <text x="12" y="149" fill="#7D8791" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1">PRINCIPAL</text>
+  <text x="18" y="180" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="16">⌂</text>
+  <text x="41" y="180" fill="#101E2E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Inicio</text>
+  <text x="18" y="215" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="16">↥</text>
+  <text x="41" y="215" fill="#101E2E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Upload de historico</text>
+  <text x="18" y="250" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="16">▣</text>
+  <text x="41" y="250" fill="#101E2E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Processos</text>
+  <text x="161" y="250" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="12">▼</text>
+  <rect x="3" y="265" width="178" height="36" fill="#E9EFFB"/>
+  <text x="18" y="287" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="16">⌕</text>
+  <text x="41" y="287" fill="#101E2E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Consultas</text>
+  <text x="161" y="287" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="12">▲</text>
+  <rect x="15" y="303" width="152" height="33" fill="#E9EFFB"/>
+  <rect x="15" y="303" width="1" height="33" fill="#76A7FF"/>
+  <text x="29" y="323" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="15">⌕</text>
+  <text x="55" y="323" fill="#13304A" font-family="Segoe UI, Arial, sans-serif" font-size="16">API TCE</text>
+  <text x="18" y="359" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="16">⌂</text>
+  <text x="41" y="359" fill="#101E2E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Análises de Erro</text>
+
+  <text x="197" y="69" fill="#6A7785" font-family="Segoe UI, Arial, sans-serif" font-size="16">Processos</text>
+  <text x="253" y="69" fill="#C2C8D0" font-family="Segoe UI, Arial, sans-serif" font-size="16">›</text>
+  <text x="267" y="69" fill="#0F2031" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">API TCE</text>
+
+  <rect x="197" y="91" width="1695" height="262" rx="4" fill="white"/>
+  <text x="216" y="129" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Filtros da consulta</text>
+
+  <text x="227" y="158" fill="#687584" font-family="Segoe UI, Arial, sans-serif" font-size="10">Código do município</text>
+  <rect x="216" y="154" width="301" height="35" rx="5" stroke="#C7D0DA"/>
+  <text x="227" y="176" fill="#18324A" font-family="Segoe UI, Arial, sans-serif" font-size="16">Fortaleza</text>
+  <text x="497" y="175" fill="#748191" font-family="Segoe UI, Arial, sans-serif" font-size="12">▼</text>
+
+  <text x="539" y="158" fill="#687584" font-family="Segoe UI, Arial, sans-serif" font-size="10">Serviço</text>
+  <rect x="528" y="154" width="301" height="35" rx="5" stroke="#C7D0DA"/>
+  <text x="540" y="176" fill="#18324A" font-family="Segoe UI, Arial, sans-serif" font-size="16">Agentes Públicos</text>
+  <text x="811" y="175" fill="#748191" font-family="Segoe UI, Arial, sans-serif" font-size="12">▼</text>
+
+  <text x="853" y="158" fill="#687584" font-family="Segoe UI, Arial, sans-serif" font-size="10">Exercício orçamento *</text>
+  <rect x="843" y="154" width="300" height="35" rx="5" stroke="#C7D0DA"/>
+  <text x="875" y="176" fill="#18324A" font-family="Segoe UI, Arial, sans-serif" font-size="16">202500</text>
+
+  <text x="216" y="329" fill="#576574" font-family="Segoe UI, Arial, sans-serif" font-size="12">Relação de Dados Funcionais dos Agentes Públicos Municipais</text>
+  <rect x="1766" y="267" width="106" height="36" rx="5" fill="#0E848D"/>
+  <text x="1788" y="290" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Consultar TCE</text>
+
+  <rect x="197" y="372" width="1695" height="61" rx="4" fill="white"/>
+  <text x="216" y="406" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Campos opcionais</text>
+  <text x="1815" y="406" fill="#0E848D" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">EXPANDIR</text>
+
+  <rect x="197" y="453" width="1695" height="478" rx="4" fill="white"/>
+  <text x="216" y="484" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Resultados da consulta</text>
+  <text x="219" y="532" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">▮▮▮</text>
+  <text x="252" y="532" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="13">COLUNAS</text>
+  <text x="296" y="532" fill="#596573" font-family="Segoe UI, Arial, sans-serif" font-size="14">↓</text>
+  <text x="316" y="532" fill="#10243B" font-family="Segoe UI, Arial, sans-serif" font-size="13">EXPORTAR</text>
+
+  <rect x="1700" y="515" width="171" height="30" rx="3" stroke="#C7D0DA"/>
+  <text x="1714" y="534" fill="#6E7A88" font-family="Segoe UI, Arial, sans-serif" font-size="12">Busque em qualquer campo</text>
+  <text x="1848" y="534" fill="#6E7A88" font-family="Segoe UI, Arial, sans-serif" font-size="14">⌕</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#5D6670">
+    <rect x="222" y="565" width="85" height="45" rx="7" fill="#D9ECEC"/>
+    <text x="246" y="580">CÓDIGO</text>
+    <text x="251" y="593">DO</text>
+    <text x="238" y="606">MUNICÍPIO</text>
+    <text x="324" y="586">ANO DE</text>
+    <text x="325" y="599">REFERÊNCIA</text>
+    <text x="426" y="593">ÓRGÃO</text>
+    <text x="504" y="593">UNIDADE</text>
+    <text x="609" y="586">CPF</text>
+    <text x="593" y="599">SERVIDOR</text>
+    <text x="688" y="586">NOME DO</text>
+    <text x="691" y="599">SERVIDOR</text>
+    <text x="791" y="586">TIPO DE</text>
+    <text x="788" y="599">INGRESSO</text>
+    <text x="878" y="593">VÍNCULO</text>
+    <text x="969" y="580">NÚMERO</text>
+    <text x="982" y="593">DO</text>
+    <text x="963" y="606">EXPEDIENTE</text>
+    <text x="968" y="619">NOMEAÇÃO</text>
+    <text x="1069" y="593">EXPEDIENTE</text>
+    <text x="1178" y="586">DATA DE</text>
+    <text x="1172" y="599">EXPEDIENTE</text>
+    <text x="1271" y="586">AMPARO</text>
+    <text x="1281" y="599">LEGAL</text>
+    <text x="1358" y="580">NÚMERO</text>
+    <text x="1370" y="593">DO</text>
+    <text x="1354" y="606">AMPARO</text>
+    <text x="1364" y="619">LEGAL</text>
+    <text x="1446" y="586">DATA DE</text>
+    <text x="1448" y="599">AMPARO</text>
+    <text x="1458" y="612">LEGAL</text>
+    <text x="1534" y="580">DATA DE</text>
+    <text x="1522" y="593">PUBLICAÇÃO</text>
+    <text x="1539" y="606">AMPARO</text>
+    <text x="1549" y="619">LEGAL</text>
+    <text x="1647" y="586">DATA</text>
+    <text x="1659" y="599">DE</text>
+    <text x="1646" y="612">POSSE</text>
+    <text x="1730" y="580">NÚMERO</text>
+    <text x="1742" y="593">DO</text>
+    <text x="1726" y="606">MATRÍCULA</text>
+    <text x="1821" y="586">SITUAÇÃO</text>
+    <text x="1822" y="599">FUNCIONAL</text>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#10243B">
+    <line x1="216" y1="629" x2="1872" y2="629" stroke="#E2E7EE"/>
+    <line x1="216" y1="711" x2="1872" y2="711" stroke="#E2E7EE"/>
+    <line x1="216" y1="794" x2="1872" y2="794" stroke="#E2E7EE"/>
+    <line x1="216" y1="877" x2="1872" y2="877" stroke="#E2E7EE"/>
+
+    <text x="228" y="650">57</text><text x="325" y="650">00/2025</text><text x="426" y="650">1</text><text x="505" y="650">101</text><text x="592" y="650">000******69</text><text x="685" y="650">ANTONIO</text><text x="786" y="650">R</text><text x="879" y="650">I</text><text x="963" y="650">1673/22</text><text x="1069" y="650">A</text><text x="1168" y="650">01/11/2022</text><text x="1276" y="650">M</text><text x="1358" y="650">1497/97</text><text x="1448" y="650">30/06/1997</text><text x="1531" y="650">15/07/1997</text><text x="1635" y="650">04/01/2021</text><text x="1718" y="650">14.922</text><text x="1819" y="650">1</text>
+    <text x="685" y="666">REGIVALDO</text><text x="685" y="682">NASCIMENTO</text><text x="685" y="698">NEVES</text>
+
+    <text x="228" y="733">57</text><text x="325" y="733">00/2025</text><text x="426" y="733">1</text><text x="505" y="733">101</text><text x="592" y="733">000******08</text><text x="685" y="733">WALQUIRIA</text><text x="786" y="733">R</text><text x="879" y="733">I</text><text x="963" y="733">1639/2023</text><text x="1069" y="733">A</text><text x="1168" y="733">01/07/2023</text><text x="1276" y="733">M</text><text x="1358" y="733">1497/97</text><text x="1448" y="733">30/06/1997</text><text x="1531" y="733">15/07/1997</text><text x="1635" y="733">01/04/2020</text><text x="1718" y="733">14.680</text><text x="1819" y="733">1</text>
+    <text x="685" y="749">AGOSTINHO</text><text x="685" y="765">LOURENÇO</text><text x="685" y="781">ANDRADE</text>
+
+    <text x="228" y="816">57</text><text x="325" y="816">00/2025</text><text x="426" y="816">1</text><text x="505" y="816">101</text><text x="592" y="816">000******05</text><text x="685" y="816">ELYSANGELA</text><text x="786" y="816">N</text><text x="879" y="816">E</text><text x="963" y="816">1554/2025</text><text x="1069" y="816">A</text><text x="1168" y="816">01/02/2025</text><text x="1276" y="816">M</text><text x="1368" y="816">198</text><text x="1448" y="816">12/01/2015</text><text x="1531" y="816">20/01/2015</text><text x="1635" y="816">26/02/2025</text><text x="1718" y="816">17.926</text><text x="1819" y="816">1</text>
+    <text x="685" y="832">CARVALHO</text><text x="685" y="848">SILVA</text>
+
+    <text x="228" y="899">57</text><text x="325" y="899">00/2025</text><text x="426" y="899">1</text><text x="505" y="899">101</text><text x="592" y="899">000******78</text><text x="685" y="899">VIVIANE</text><text x="786" y="899">R</text><text x="879" y="899">I</text><text x="963" y="899">001/2025</text><text x="1069" y="899">A</text><text x="1168" y="899">13/01/2025</text><text x="1276" y="899">M</text><text x="1358" y="899">1.497</text><text x="1448" y="899">30/06/1997</text><text x="1531" y="899">15/07/1997</text><text x="1635" y="899">13/01/2025</text><text x="1718" y="899">17.515</text><text x="1819" y="899">1</text>
+    <text x="685" y="915">INACIO DE</text><text x="685" y="931">LIMA</text>
+  </g>
+</svg>
