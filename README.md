@@ -32,7 +32,7 @@ Link publico:
 
 Consulta da API TCE com grid preenchido a partir de dados reais do endpoint `agentes_publicos`, usando o municipio `057` e o exercicio `202500`.
 
-![Consulta da API TCE com resultados](./assets/api-tce-featured.svg)
+<img src="./assets/api-tce-featured.svg" alt="Consulta da API TCE com resultados" width="1400" />
 
 ## Problema resolvido
 
