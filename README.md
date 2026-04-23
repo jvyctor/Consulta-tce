@@ -4,8 +4,6 @@
 
 Plataforma full stack para consulta, integracao e analise operacional de dados publicos, desenvolvida com foco em produtividade, padronizacao de informacoes e apoio a rotinas reais de validacao.
 
-[Acessar aplicacao em producao](https://consultatce-dev.ssinformatica.net/)
-
 Stack principal: `Ruby on Rails 8` `Preact` `TypeScript` `PostgreSQL` `Docker`
 
 Por questoes de confidencialidade, este repositorio documenta o case profissional sem expor codigo proprietario.
@@ -98,7 +96,7 @@ Atuei no desenvolvimento full stack da solucao, com participacao em:
 
 ## Confidencialidade
 
-Este repositorio documenta um projeto profissional real, mas nao inclui codigo proprietario, regras internas de negocio, credenciais, dados sensiveis ou detalhes exclusivos da empresa.
+Este repositorio documenta um projeto profissional real, mas nao inclui codigo proprietario, regras internas de negocio, credenciais, link de produção, dados sensiveis ou detalhes exclusivos da empresa.
 
 ## Tecnologias e temas
 
