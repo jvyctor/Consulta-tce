@@ -1,0 +1,44 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F8A92"/>
+      <stop offset="1" stop-color="#0A4B57"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1280" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="40" flood-color="#062730" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="32" fill="url(#bg)"/>
+  <circle cx="1120" cy="80" r="180" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="1040" cy="280" r="120" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="154" cy="40" r="96" fill="#FFFFFF" fill-opacity="0.05"/>
+
+  <g filter="url(#shadow)">
+    <rect x="720" y="56" width="500" height="248" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <rect x="752" y="92" width="436" height="18" rx="9" fill="#D8F3F5" fill-opacity="0.28"/>
+    <rect x="752" y="128" width="300" height="12" rx="6" fill="#D8F3F5" fill-opacity="0.20"/>
+    <rect x="752" y="164" width="404" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.92"/>
+    <rect x="772" y="182" width="128" height="12" rx="6" fill="#145B66" fill-opacity="0.90"/>
+    <rect x="916" y="182" width="180" height="12" rx="6" fill="#8AA9AE"/>
+    <rect x="752" y="228" width="404" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.92"/>
+    <rect x="772" y="246" width="96" height="12" rx="6" fill="#145B66" fill-opacity="0.90"/>
+    <rect x="884" y="246" width="220" height="12" rx="6" fill="#8AA9AE"/>
+  </g>
+
+  <text x="72" y="108" fill="#E9FEFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">CASE PROFISSIONAL</text>
+  <text x="72" y="168" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Consulta TCE</text>
+  <text x="72" y="214" fill="#D8F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Plataforma full stack para consulta, integracao</text>
+  <text x="72" y="246" fill="#D8F3F5" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">e analise operacional de dados publicos</text>
+
+  <rect x="72" y="278" width="160" height="40" rx="20" fill="#FFFFFF"/>
+  <text x="98" y="304" fill="#0D6974" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Rails 8</text>
+  <rect x="246" y="278" width="180" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.15" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <text x="274" y="304" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Preact + TS</text>
+  <rect x="440" y="278" width="140" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.15" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <text x="476" y="304" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Docker</text>
+</svg>

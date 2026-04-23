@@ -1,5 +1,7 @@
 # Consulta TCE
 
+![Consulta TCE banner](./assets/banner.svg)
+
 Case profissional de uma aplicacao full stack voltada para consulta, normalizacao e analise de dados publicos.
 
 [Acessar aplicacao em producao](https://consultatce-dev.ssinformatica.net/)
@@ -26,19 +28,11 @@ Link publico:
 
 - https://consultatce-dev.ssinformatica.net/
 
-## Capturas da aplicacao
+## Interface em destaque
 
-### Consulta de contratos
+Consulta da API TCE com grid preenchido a partir de dados reais do endpoint `agentes_publicos`, usando o municipio `057` e o exercicio `202500`.
 
-![Consulta de contratos](./assets/consulta-contrato.png)
-
-### Consulta dinamica da API TCE
-
-![Consulta da API TCE](./assets/api-tce.png)
-
-### Fluxo de analise de divergencias
-
-![Analise de divergencias](./assets/analises-ne.png)
+![Consulta da API TCE com resultados](./assets/api-tce-grid.svg)
 
 ## Problema resolvido
 
