@@ -1,31 +1,59 @@
-# Case Profissional - Plataforma de Consulta e Analise de Dados Publicos
+# Consulta TCE
 
-## Sobre o projeto
+Case profissional de uma aplicacao full stack voltada para consulta, normalizacao e analise de dados publicos.
 
-Este repositorio apresenta um case profissional baseado em uma aplicacao full stack desenvolvida em contexto corporativo para consulta, normalizacao e analise de dados publicos.
+[Acessar aplicacao em producao](https://consultatce-dev.ssinformatica.net/)
+## Visao geral
 
-Por questoes de confidencialidade, o codigo-fonte nao pode ser publicado. O objetivo deste material e documentar o problema resolvido, a arquitetura da solucao, a stack utilizada e minha atuacao tecnica no projeto.
+Este repositorio documenta um projeto real desenvolvido em contexto corporativo para apoiar rotinas operacionais de consulta, consolidacao e validacao de informacoes publicas.
+
+A solucao centraliza fluxos de consulta em uma interface unica, organiza filtros operacionais, padroniza dados consumidos por integracoes externas e oferece recursos de exportacao e apoio a analise de inconsistencias.
+
+Por questoes de confidencialidade e propriedade intelectual, o codigo-fonte nao esta publico. Aqui eu apresento o produto, a arquitetura em alto nivel, a stack e a minha contribuicao tecnica.
+
+## Destaques do projeto
+
+- aplicacao full stack com backend em Ruby on Rails e frontend em Preact + TypeScript
+- integracao com fonte externa de dados publicos
+- consultas operacionais com filtros e paginacao
+- exportacao de resultados em CSV
+- fluxo de analise de divergencias em arquivos CSV
+- ambiente preparado para execucao conteinerizada com Docker
 
 ## Aplicacao em producao
 
-O sistema pode ser acessado publicamente em:
+Link publico:
 
-https://consultatce-dev.ssinformatica.net/
+- https://consultatce-dev.ssinformatica.net/
 
-## Contexto
+## Capturas da aplicacao
 
-O projeto foi concebido para apoiar rotinas operacionais que dependem de consulta, consolidacao e validacao de informacoes publicas. A solucao centraliza diferentes fluxos em uma unica interface, reduz o esforco manual de consulta e melhora a consistencia do tratamento dos dados exibidos e exportados.
+### Consulta de contratos
 
-## O que a solucao entrega
+![Consulta de contratos](./assets/consulta-contrato.png)
 
-- consulta de dados com filtros operacionais
-- integracao com fonte externa de dados publicos
-- padronizacao das respostas para consumo interno
-- exportacao de resultados em CSV
+### Consulta dinamica da API TCE
+
+![Consulta da API TCE](./assets/api-tce.png)
+
+### Fluxo de analise de divergencias
+
+![Analise de divergencias](./assets/analises-ne.png)
+
+## Problema resolvido
+
+O projeto foi concebido para reduzir atrito em rotinas que dependem de consulta e validacao de dados publicos. Em vez de espalhar esse trabalho entre fontes externas, verificacoes manuais e planilhas auxiliares, a aplicacao concentra o fluxo em um unico produto com experiencia de uso orientada a operacao.
+
+## Principais funcionalidades
+
+- consulta paginada de contratos, licitacoes e veiculos
+- filtros por municipio, orgao e outros criterios operacionais
+- integracao com API externa para consulta de dados publicos
+- exibicao estruturada de resultados em interface web
+- exportacao dos dados consultados para CSV
 - analise de arquivos CSV para apoio a identificacao de inconsistencias
-- interface web para pesquisa e acompanhamento operacional
 
-## Stack utilizada
+## Stack
 
 - Ruby on Rails 8
 - PostgreSQL
@@ -36,51 +64,42 @@ O projeto foi concebido para apoiar rotinas operacionais que dependem de consult
 
 ## Arquitetura em alto nivel
 
-A aplicacao foi estruturada em dois blocos principais:
+O sistema foi organizado em dois blocos principais:
 
-- backend em Ruby on Rails responsavel por expor endpoints, integrar dados externos, padronizar respostas, paginar resultados e apoiar fluxos de analise
-- frontend em Preact + TypeScript responsavel pela experiencia de consulta, filtros, exibicao de resultados e exportacao
+- backend responsavel por expor endpoints, integrar dados externos, normalizar respostas, paginar resultados e apoiar fluxos de analise
+- frontend responsavel pela experiencia de consulta, filtros, apresentacao dos dados e exportacao
 
-O ambiente tambem foi preparado para execucao conteinerizada com Docker, facilitando padronizacao de setup e execucao entre ambientes.
-
-## Principais funcionalidades
-
-- consulta paginada de dados
-- filtros por municipio e outros criterios operacionais
-- integracao com APIs externas
-- exibicao estruturada dos resultados
-- exportacao de dados para CSV
-- processamento de arquivos CSV para validacao e conferencia
+Essa separacao permitiu evoluir a interface e as integracoes mantendo um fluxo consistente de dados entre camada de servico e camada de apresentacao.
 
 ## Minha atuacao
 
-Atuei no desenvolvimento full stack da solucao, incluindo:
+Atuei no desenvolvimento full stack da solucao, com participacao em:
 
 - implementacao e evolucao de funcionalidades no backend
 - construcao e manutencao da interface web
 - integracao com servicos externos
-- tratamento e normalizacao de dados para consumo na interface
-- implementacao de filtros e fluxos de exportacao
-- apoio a rotinas de analise de inconsistencias em arquivos processados
+- tratamento e normalizacao de dados para consumo no frontend
+- implementacao de filtros, consultas e exportacao de resultados
+- apoio aos fluxos de analise de divergencias em arquivos processados
 
-## Desafios tecnicos envolvidos
+## Desafios tecnicos
 
-- organizar a integracao com dados externos de forma consistente
-- garantir respostas padronizadas para consumo no frontend
-- estruturar filtros e resultados para uso operacional
+- organizar integracoes externas com respostas consistentes para a interface
+- estruturar consultas operacionais com filtros reutilizaveis
 - tratar importacao e leitura de arquivos CSV
-- equilibrar experiencia de uso com necessidades tecnicas de consulta e analise
+- exibir e exportar dados de forma padronizada
+- equilibrar experiencia de uso com necessidades operacionais reais
 
-## Resultados percebidos
+## Resultado
 
 - centralizacao do fluxo de consulta em uma unica aplicacao
 - ganho de produtividade em rotinas operacionais
 - melhor consistencia na exibicao e exportacao dos dados
-- apoio tecnico a validacao de inconsistencias em arquivos analisados
+- suporte mais eficiente para validacao de inconsistencias
 
 ## Confidencialidade
 
-Este repositorio documenta um projeto profissional real, mas nao inclui codigo proprietario, detalhes internos de negocio, credenciais, dados sensiveis ou implementacoes exclusivas da empresa.
+Este repositorio documenta um projeto profissional real, mas nao inclui codigo proprietario, regras internas de negocio, credenciais, dados sensiveis ou detalhes exclusivos da empresa.
 
 ## Tecnologias e temas
 
